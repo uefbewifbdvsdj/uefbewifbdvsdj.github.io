@@ -8406,7 +8406,8 @@ footer.style-2 {
     padding: 0 4px 0px 0;
     font-size: 15px;
   }
-  img.logo.kof {width: 60%; padding-top: 4px; }
+  /*img.logo.kof {width: 60%; padding-top: 4px; } Changed by Debopam */
+  img.logo.kof {width: 60%; } 
   #section-hero1 .home-icon,
   #section-hero1 h3,
   #section-hero1 h2 { padding-bottom: 10px;}
