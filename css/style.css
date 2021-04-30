@@ -1,45 +1,4 @@
-/* ================================================== */
-/* created by designesia
 
-* body
-* header
-	* subheader
-* navigation
-* content
-* section
-* footer
-* sidebar
-* blog
-* products
-* contact
-* coming soon page
-* elements
-	* address
-	* border
-	* breadcrumb
-	* button
-	* columns
-	* counter
-	* divider
-	* dropcap
-	* form
-	* heading
-	* icon font
-	* list
-	* map
-	* package
-	* page heading
-	* pagination
-	* pricing
-	* progress bar
-	* social icons
-	* spacer
-	* tabs
-	* team
-	* testimonial
-* media query
-
-/* ================================================== */
 @charset "utf-8";
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 @import url(https://fonts.googleapis.com/css?family=Dosis:400,200,300,500,600,700,800);
@@ -8498,7 +8457,8 @@ body .eventbg1 h4{
   font-weight: 600;
 }
 .smaller img.logo.kof {
-  width: 60%;
+  /*width: 60%; Changed by Debopam*/
+  width: 45%;
   padding-left: 1%;
 }
 img.logo.kof { width: 60%;padding-left: 1%; }
