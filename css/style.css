@@ -62,7 +62,7 @@ a.btn-custom:hover {
 }
 .de-team-list .team-desc {
   background: rgb(45 205 255 / 70%) !important;
-  border-radius: 15px;
+  /*border-radius: 15px;  Commented by Debopam */
 }
 #section-speakers .team-desc {
   max-width: 75%;
